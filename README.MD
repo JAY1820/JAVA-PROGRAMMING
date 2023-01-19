@@ -1,4 +1,4 @@
-# JAY1820-JAY1820-JAVA-PROGRAMMING
+# JAY1820-JAVA-PROGRAMMING
 ### Hi there 👋, MY NAME IS JAYMIN VALAKI
 #### I AM A TECH STUDENT
 I made this for a student who want to learn java programming from basic to advance
