@@ -143,6 +143,8 @@ class l3p1 {
                 System.out.println(a + " " + op + " " + b + " = " + Aop.getArithmethicIntOpResult());
                 break;
 
+
+                
             case 2:
                 RelationalOp Rop = new RelationalOp();
                 System.out.println("Enter Oparation (==,>,<,>=,<=,!=):");

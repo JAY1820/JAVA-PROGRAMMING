@@ -68,6 +68,7 @@ public class l3p2 {
                 System.out.printf("%.2f", t1.trianglearea());
                 break;
 
+                
             case 3:
                 System.out.println("enter a rectangle length and width ");
                 int l1 = sc.nextInt();

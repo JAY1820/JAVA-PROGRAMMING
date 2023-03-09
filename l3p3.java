@@ -3,10 +3,13 @@ import java.nio.charset.Charset;
 public class l3p3 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
+
+
         String str1 = new String();
         System.out.print("Enter First String:");
         str1 = scan.nextLine();
         System.out.println("String1:" + str1);
+
         // String("") is constructor
         System.out.print("Enter Second String:");
         String str2 = new String(scan.nextLine());
@@ -34,14 +37,21 @@ public class l3p3 {
         char ch2[] = { 'h', 'e', 'l', 'l', 'o' };
         String str7 = new String(ch2, 2, 3);
         System.out.println(str7);
+
+
         //Constructor of StringBuffer 
         StringBuffer sb = new StringBuffer("Java");
         String str8 = new String(sb);
         System.out.println("StringBuffer:"+str8);
+
+        
         // Constructor StringBuilder
         StringBuilder sB = new StringBuilder("Java2");
         String str9String = new String(sB);
         System.out.println("StringBuilder"+str9String);
+
+
+
 
         // String Class Methods
         System.out.println("CharAt Method:"+str1.charAt(0));
