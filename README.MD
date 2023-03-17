@@ -4,7 +4,7 @@
 I made this for a student who want to learn java programming from basic to advance
 and want to practice program related to that
 
-Skills requried: java
+Skills requried: Core java 
 
 - 🔭 I’m currently working on this page. 
 
