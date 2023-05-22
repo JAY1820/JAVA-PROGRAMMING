@@ -10,7 +10,7 @@ public class l3p3 {
         str1 = scan.nextLine();
         System.out.println("String1:" + str1);
 
-        // String("") is constructor
+        
         System.out.print("Enter Second String:");
         String str2 = new String(scan.nextLine());
         System.out.println("String2:" +str2);
