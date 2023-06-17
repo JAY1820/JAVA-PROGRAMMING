@@ -1,5 +1,6 @@
 *.class
-Lab Sem2 Code/*.class
-Java College Work/*.class
-Java College Work/*.jar
+Java lab code/*.class
+Java College Program/*.class
+DSA JAVA/*.class
+*./gitignore
 
